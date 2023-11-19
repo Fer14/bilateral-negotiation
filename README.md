@@ -2,7 +2,7 @@
 
 ![logo](logo.png)
 
-Implementation of various bilateral negotiation papers  using python ```negmas``` for a IA masters thesis.
+Implementation of various bilateral negotiation papers  using python ```negmas``` for an IA masters thesis.
 
 ## Rosenchein and Zltokin - 1994
 
